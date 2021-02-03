@@ -1,0 +1,28 @@
+{
+  "name": "DemoLib1",
+  "version": "0.2.0",
+  "summary": "demo lib1",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 二进制化 demo lib1",
+  "homepage": "https://github.com/xing-ou/DemoLib1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xing-ou": "gouxin@haixue.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/DemoLib1/0.2.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DemoLib1/Classes/**/*",
+  "dependencies": {
+    "YYModel": [
+
+    ]
+  },
+  "vendored_frameworks": "DemoLib1.framework"
+}
